@@ -8,3 +8,4 @@ pydantic-settings
 geopy
 scikit-learn
 numpy
+psycopg2-binary
