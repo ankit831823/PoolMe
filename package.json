@@ -1,0 +1,9 @@
+{
+  "name": "poolme",
+  "version": "1.0.0",
+  "scripts": {
+    "frontend": "cd frontend && npm start",
+    "backend": "cd backend && ..\\venv\\Scripts\\uvicorn.exe main:app --reload",
+    "dev": "npm run frontend"
+  }
+}
